@@ -21,7 +21,7 @@ const NavigationSections = [
     title: "Forem Basics",
     links: [
       {
-        title: "Create static content with Pages",
+        title: "Create static content without Pages",
         url: "docs/forem-basics/pages",
       },
       {
